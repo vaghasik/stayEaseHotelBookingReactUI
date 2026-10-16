@@ -1,4 +1,10 @@
 # Capstone_FSEJAVA_Team45_stayease-hotelbooking-ui
+git config --global credential.helper
+cmdkey /delete:git:https://github.com
+git config --global user.name
+vaghasik
+git config --global user.email
+kajal6633@gmail.com
 # StayEase — Frontend (React + Vite + TypeScript)
 Build a hotel room booking web application where users can browse hotels, check room availability for selected dates, and confirm a booking.
 The web UI for StayEase, a small hotel booking application. Search hotels by city and dates, compare rooms, book, and manage a stay — with separate views for guests, hotel managers, and admins. This is a pure frontend: it
